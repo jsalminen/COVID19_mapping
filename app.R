@@ -8,6 +8,7 @@
 #
 
 library(shiny)
+library(leaflet)
 library(tidyverse)
 
 # Read data from Google Sheets
