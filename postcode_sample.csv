@@ -1,0 +1,23 @@
+countrycode;language;postcode;city;region1;region2;region3;latitude;longitude
+FI;FI;00990;Helsinki;Etelä-Suomen lääni;Uusimaa;Helsinki;60.20741775;25.18147160
+FI;FI;01002;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.28775118;24.85525110
+FI;FI;01003;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.30532049;24.85219260
+FI;FI;01009;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.23734349;24.60839776
+FI;FI;01019;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.28773888;24.85524603
+FI;FI;01050;Turun Laskut;Länsi-Suomen lääni;Varsinais-Suomi;Turku;60.45272932;22.25126815
+FI;FI;01051;Helsinki;Etelä-Suomen lääni;Uusimaa;Helsinki;60.45269275;22.25125469
+FI;FI;01053;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.28771410;24.85523581
+FI;FI;01055;Helsinki;Etelä-Suomen lääni;Uusimaa;Helsinki;60.20741498;25.18147045
+FI;FI;01120;Västerskog;Etelä-Suomen lääni;Itä-Uusimaa;Sipoo;60.27012882;25.28528467
+FI;FI;01121;Västerskog;Etelä-Suomen lääni;Itä-Uusimaa;Sipoo;60.27624791;25.29862697
+FI;FI;01150;Söderkulla;Etelä-Suomen lääni;Itä-Uusimaa;Sipoo;60.30069152;25.32592904
+FI;FI;01151;Söderkulla;Etelä-Suomen lääni;Itä-Uusimaa;Sipoo;60.30072131;25.32594155
+FI;FI;01180;Kalkkiranta;Etelä-Suomen lääni;Itä-Uusimaa;Sipoo;60.21287836;25.41419197
+FI;FI;01190;Box;Etelä-Suomen lääni;Itä-Uusimaa;Sipoo;60.30388792;25.39809175
+FI;FI;01200;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.28842771;25.14251321
+FI;FI;01201;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.28772122;24.85523874
+FI;FI;01230;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.26402591;25.10497496
+FI;FI;01231;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.30872605;24.85359605
+FI;FI;01260;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.30420620;25.12730341
+FI;FI;01261;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.28772779;24.85524145
+FI;FI;01280;Vantaa;Etelä-Suomen lääni;Uusimaa;Vantaa;60.24724072;25.11497447
